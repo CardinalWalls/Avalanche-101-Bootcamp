@@ -1,12 +1,11 @@
 # Task 1：<第一章 Avalanche零基础入门知识>
 
-> 对应课程：第一章 
+> 对应课程：第一章
 > 截止提交：<9月6日> 24:00:00 (UTC+8)
 
 ## 任务目标
 
-任务一：截图：注册完成 [BuilderHub](https://build.avax.network/?ref=ZETMV&utm_source=team1) 的截图 
-
+任务一：截图：注册完成 [BuilderHub](https://build.avax.network/?ref=ZETMV&utm_source=team1) 的截图
 
 参考截图可见 [作业参考](/public/作业参考.png)
 
@@ -26,3 +25,13 @@
 ## 截止时间
 
 <9月6日> 24:00:00 (UTC+8)。截止后提交的作业没有奖励。
+
+## 我的提交
+
+### 任务一：BuilderHub 注册完成
+
+![BuilderHub 注册完成截图（已脱敏）](./task1-tz-hao-builderhub-redacted.png)
+
+### 任务二：课程报名链接转发
+
+![课程报名链接转发截图（已脱敏）](./task1-tz-hao-share-redacted.png)

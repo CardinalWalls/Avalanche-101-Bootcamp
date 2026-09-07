@@ -2,16 +2,19 @@
 
 > 对应课程：第一章 
 > 截止提交：<9月6日> 24:00:00 (UTC+8)
+> 提交人：qiaopengjun5162
 
 ## 任务目标
 
 任务一：截图：注册完成 [BuilderHub](https://build.avax.network/?ref=ZETMV&utm_source=team1) 的截图 
 
-
-参考截图可见 [作业参考](/public/作业参考.png)
+![Task1-1](/learn/qiaopengjun5162/task1qiaopengjun5162.png)
 
 任务二：转发本 [课程报名链接](https://luma.com/1b83zb0x) 至小红书/推特/200+微信社群/微信朋友圈，并截图保存提交
-[可参考模板](/public/转发模板.md)
+
+已在 X (Twitter) 转发：https://x.com/qiaopengjun/status/2094958816429474275
+
+![Task1-2](/learn/qiaopengjun5162/task1qiaopengjun5162-2.jpg)
 
 图片命名方式：task1+你的名字
 
